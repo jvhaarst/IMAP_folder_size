@@ -1,0 +1,2 @@
+In this project I would like to grab the sizes of all folders and messages of an IMAP mail account, and show them graphically.
+Right now I'm in the process of getting the data in, after that I'm either going for a sunburst map or tree map visualisation.
