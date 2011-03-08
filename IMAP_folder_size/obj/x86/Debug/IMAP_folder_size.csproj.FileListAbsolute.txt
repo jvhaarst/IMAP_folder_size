@@ -1,0 +1,12 @@
+D:\C#\IMAP_folder_size\IMAP_folder_size\bin\Debug\IMAP_folder_size.exe
+D:\C#\IMAP_folder_size\IMAP_folder_size\bin\Debug\IMAP_folder_size.pdb
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.Properties.Resources.resources
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.exe
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.pdb
+D:\C#\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.FormIMAPFolderSize.resources
+U:\code\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.exe
+U:\code\IMAP_folder_size\IMAP_folder_size\obj\x86\Debug\IMAP_folder_size.pdb
+U:\code\IMAP_folder_size\IMAP_folder_size\bin\Debug\IMAP_folder_size.exe.config
